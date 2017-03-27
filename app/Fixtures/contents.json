@@ -1,0 +1,37 @@
+[{
+    "contact":{
+        "email":"ybhteam@gmail.com",
+        "mobile":"9912878749, 9490942612",
+        "facebook":""
+    },
+    "aboutUs":{
+        "text":"We the YOUTH FOR BETTER HYDERABAD have dedication and enthusiasm for bringing  a change in the system  and the society alike. With the vision to contribute to the development and to strive for progress in the lives of people we started our Organization in 2010 and registered it in 2015. We would like to help our community and our country attain progress in whatever small capacity we can contribute . YBH has been constantly actively participated in the programs and projects . ",
+        "url":"../images/logo01.png",
+        "aims":["Implementation of citizen's Charter","Raising awareness for health issues","Imparting political education"]
+    },
+    "theme":{
+        "title1":"LETS TALK - DEPRESSION",
+        "Desc":["Depression is a common illness worldwide, with more than 300 million people affected. Depression is different from usual mood fluctuations and short-lived emotional responses to challenges in everyday life. Especially when long-lasting and with moderate or severe intensity, depression may become a serious health condition. It can cause the affected person to suffer greatly and function poorly at work, at school and in the family. At its worst, depression can lead to suicide. ",
+            "Yet, depression can be prevented and treated. A better understanding of what depression is, and how it can be prevented and treated, will help reduce the stigma associated with the condition, and lead to more people seeking help."]
+    },
+    "carousalImg":[
+        {"url":"../images/Talk2.jpg",
+        "caption":""
+        },{"url":"../images/Talk1.jpg",
+        "caption":""
+        },{"url":"../images/Talk3.jpg",
+        "caption":""
+        },{"url":"../images/Talk4.jpg",
+        "caption":""
+        },{"url":"../images/Talk5.jpg",
+        "caption":""
+        },{"url":"../images/Talk6.jpg",
+        "caption":""
+        },{"url":"../images/Talk7.jpg",
+        "caption":""
+        },{"url":"../images/Talk8.jpg",
+        "caption":""
+        }],
+        "sponsers":[{"name":"AAKRUTHI PLAY SCHOOL","url":"../images/aakruthi.jpg"},{"name":"JAYANI POLY CLINIC ","url":"../images/jayan.jpg"},{"name":"GAYATRI POLY CLINIC","url":"../images/gayatri.jpg"},{"name":"KUSHEE FOUNDATION"},{"name":"P.VIDYA SAGAR AND RADHA KRISHNA"}],
+        "run":[{"date":"02/04/17 , Sunday 6:00 AM","venue":"Saroornagar Lake, Mini tankbund","intro":["On the occasion of WORLD HEALTH DAY","In association with WORLD HEALTH ORGANISATION"],"url":"../images/RUN.jpeg"}]
+}]
