@@ -63,6 +63,7 @@ body {
   left: 0;
   min-width: 100%;
   height: 500px;
+  padding-top:50px;
 }
 
 
@@ -174,6 +175,19 @@ body {
   .hover-img:hover{
     transform: scale(3,4);
   }
+.ptagStyle{
+    padding-left: 10px;
+}
+.paraStyle{
+    padding-left: 22px;
+}
+.paraStyletheme{
+  padding-left: 40px; 
+}
+.bold{
+  font-size: larger;
+  padding-left: 30px;
+}
 }
 
 .row {
